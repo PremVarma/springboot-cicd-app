@@ -81,6 +81,7 @@
 				</configuration>
 			</plugin>
 		</plugins>
+		<finalName>springboot-department-app</finalName>
 	</build>
 
 </project>
